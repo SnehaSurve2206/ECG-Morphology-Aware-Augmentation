@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dataset
+ptb-xl-dataset/
+*.zip
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Model and numerical outputs
+*.pth
+*.pt
+*.ckpt
+*.npz
+
+# Keep only selected demo results
+results/*
+!results/github_demo/
+!results/github_demo/**

@@ -1,0 +1,2 @@
+experiment,technique,strength,best_validation_loss,epochs,seed,macro_f1,macro_precision,macro_recall,macro_auroc
+baseline,none,none,0.2989020947356537,5,42,0.6825056999182006,0.7723621903768096,0.63056041581806,0.9076535242101886
